@@ -12,9 +12,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>university</name>
     <description>university</description>
-    <properties>
-        <java.version>11</java.version>
-    </properties>
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -36,6 +34,7 @@
             <artifactId>mysql-connector-java</artifactId>
             <version>5.1.49</version>
         </dependency>
+
     </dependencies>
 
 </project>
